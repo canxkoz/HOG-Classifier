@@ -1,2 +1,2 @@
 # CROS-SEARCH WITH HOG (HISTOGRAM OF ORIENTED GRAPHS)
-Project Description cominig soon !
+Extracts the features of all the pictures in the file named "images" via HOG Feature Descriptor. Compares the features of the desired picture to the features of the other pictures in the "images" file. Orders the names of the images in a .csv file after comparing their feature vectors. Returns the image that is the most simmilar picture in the "images" file based on the differences in the feature vectors.
